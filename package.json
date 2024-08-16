@@ -2,8 +2,7 @@
   "name": "fitness",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Yasir-moha/fitness-app-project",
-
+"homepage": "https://yasir-moha.github.io/Yasir-moha/fitness-app-project",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
